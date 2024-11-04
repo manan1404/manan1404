@@ -1,11 +1,6 @@
-Here's a customized GitHub profile README template for you, complete with emojis to add a fun and engaging touch:
-
----
-
 # 👋 Hello, I'm Manan!
 
-Welcome to my GitHub profile! I'm a passionate developer who loves working on cutting-edge technology and exciting projects. Here's a glimpse of what I do:
-
+Welcome to my GitHub profile! I'm a Computer Science Undergrad who loves Machine Learning and working on interesting projects.
 ---
 
 ## 🚀 About Me
@@ -13,16 +8,15 @@ Welcome to my GitHub profile! I'm a passionate developer who loves working on cu
 - 🎓 Computer Science enthusiast with a knack for machine learning and AI.
 - 💻 Experienced in Deep Learning, NLP, and Computer Vision.
 - 🌱 Always eager to learn new technologies and improve my skills.
-- 🏆 Participant in hackathons and competitions to challenge myself.
+- 🏆 Love to take on challenges.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python 🐍, JavaScript 🌐, C++ 💾
+- **Languages:** Python 🐍, C++ 💾
 - **Frameworks:** PyTorch 🔥, TensorFlow 🌟, Keras 🧠
 - **Tools:** VSCode 🖥️, Jupyter Notebook 📒, GitHub Actions ⚙️
-- **Cloud:** AWS ☁️, Google Cloud 🌍
 - **Databases:** MySQL 🗄️, PostgreSQL 🐘
 
 ---
@@ -43,20 +37,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves working on cu
 
 ## 🤝 Connect with Me
 
-- **Email:** manan@example.com 📧
-- **LinkedIn:** [linkedin.com/in/manan](https://linkedin.com/in/manan) 🔗
-- **Twitter:** [@MananTech](https://twitter.com/MananTech) 🐦
+- **Email:** manantemp1404@gmail.com 📧
+- **LinkedIn:** [linkedin.com/in/manan](https://www.linkedin.com/in/manan-kumar-st14/) 🔗
 
 ---
-
-## 🌟 Fun Fact
-
-I love exploring the intersection of technology and creativity, whether it's through hackathons, personal projects, or open-source contributions.
-
----
-
 Feel free to reach out, collaborate, or just say hi! 😊
-
----
-
-To use this, create a `README.md` file in a repository named after your GitHub username (e.g., `Manan` if your username is `Manan`). GitHub will automatically display it on your profile page.
