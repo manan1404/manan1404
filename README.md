@@ -25,9 +25,14 @@ Welcome to my GitHub profile! I'm a Computer Science Undergrad who loves Machine
 
 ## 🧑‍💻 Projects
 
-- **SpeechProj_STT_Accent** 🎤 - A speech-to-text model with accent and gender recognition.
-- **Bird Classification** 🦜 - Multi-class bird species classifier.
-- **Garbage Segregation** ♻️ - Smart waste segregation system.
+- **Speech To Text using Wav2Vec2** 🎤 - A speech-to-text model with accent and gender recognition.
+- **Face Detection** 👤 - Utilizing OpenCV and Haar Cascade Classifier.
+- **Cancer Prediction** 🎗️ - Implementing Random Forest, SVM, GridSearchCV, and XGBoost for cancer prediction.
+- **Stock Price Prediction** 📈 - Using LSTM and GRU for accurate stock price forecasting.
+- **H1N1 Vaccine Analysis** 💉 - Applying logistic regression and decision trees to analyze H1N1 vaccine data.
+- **Car Speed Estimation** 🚗 - Estimating car speed in a region of interest using YOLOv8 and OpenCV.
+- **Plant Disease Detection** 🌱 - A hybrid model combining DenseNet201 and InceptionV3 with CBAM for plant disease detection.
+- **Music and Movie Recommendation** 🎶🎬 - Using cosine similarity, TF-IDF vectorization, and collaborative filtering for personalized recommendations.
 
 ---
 
