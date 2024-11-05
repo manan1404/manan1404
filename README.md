@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Manan!
 
-Welcome to my GitHub profile! I'm a Computer Science Undergrad who loves Machine Learning and working on interesting projects.
+Welcome to my GitHub profile!
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science enthusiast with a knack for machine learning and AI.
+- 🎓 Computer Science undergraduate with a knack for machine learning and AI.
 - 💻 Experienced in Deep Learning, NLP, and Computer Vision.
 - 🌱 Always eager to learn new technologies and improve my skills.
 - 🏆 Love to take on challenges.
